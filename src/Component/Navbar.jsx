@@ -26,7 +26,7 @@ const Navbar = () => {
                     <a className='mr-3'>Login</a>
                     <a className="btn bg-violet-500 text-white rounded-4xl font-bold ">Get Started</a>
                 </div>
-            </div>
+            </div>  
        </div>
     );
 };
