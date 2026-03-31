@@ -1,5 +1,6 @@
 
 import './App.css'
+import Footer from './Component/Footer'
 import Hero from './Component/Hero'
 import Navbar from './Component/Navbar'
 import Ready from './Component/Ready'
@@ -18,6 +19,7 @@ function App() {
       <Stats />
       <Steps></Steps>
       <Ready />
+      <Footer />
      </main>
     </>
   )
