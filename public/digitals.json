@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Plan",
+    "description": "Perfect for beginners to get started",
+    "price": 299,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "5+ templates",
+      "Basic editing",
+      "Export to PDF"
+    ],
+    "icon": "starter-icon",
+    "img": "https://via.placeholder.com/300x200?text=Starter"
+  },
+  {
+    "id": 2,
+    "name": "Basic Plan",
+    "description": "Great for small tasks and personal use",
+    "price": 499,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "15+ templates",
+      "Custom colors",
+      "Export to PDF"
+    ],
+    "icon": "basic-icon",
+    "img": "https://via.placeholder.com/300x200?text=Basic"
+  },
+  {
+    "id": 3,
+    "name": "Standard Plan",
+    "description": "Balanced plan for regular users",
+    "price": 799,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best",
+    "features": [
+      "50+ templates",
+      "ATS optimization",
+      "Export to PDF & Word"
+    ],
+    "icon": "standard-icon",
+    "img": "https://via.placeholder.com/300x200?text=Standard"
+  },
+  {
+    "id": 4,
+    "name": "Pro Plan",
+    "description": "Advanced plan for professionals",
+    "price": 999,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "Advanced editing",
+      "Priority support"
+    ],
+    "icon": "pro-icon",
+    "img": "https://via.placeholder.com/300x200?text=Pro"
+  },
+  {
+    "id": 5,
+    "name": "Business Plan",
+    "description": "Best for teams and business use",
+    "price": 1999,
+    "period": "yearly",
+    "tag": "recommended",
+    "tagType": "best",
+    "features": [
+      "Unlimited templates",
+      "Team access",
+      "API integration"
+    ],
+    "icon": "business-icon",
+    "img": "https://via.placeholder.com/300x200?text=Business"
+  },
+  {
+    "id": 6,
+    "name": "Enterprise Plan",
+    "description": "For large companies and enterprise needs",
+    "price": 4999,
+    "period": "yearly",
+    "tag": "premium",
+    "tagType": "best",
+    "features": [
+      "Unlimited everything",
+      "Dedicated support",
+      "Custom solutions",
+      "24/7 service"
+    ],
+    "icon": "enterprise-icon",
+    "img": "https://via.placeholder.com/300x200?text=Enterprise"
+  }
+]
