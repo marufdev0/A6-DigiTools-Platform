@@ -9,6 +9,7 @@ import Ready from './Component/Ready'
 import Stats from './Component/Stats'
 import Steps from './Component/Steps'
 import Cards from './Cards'
+import SimpaleCard from './Component/SimpaleCard'
 
 const getDigittals = async () =>{
   const res = await fetch('digitals.json')
@@ -55,6 +56,8 @@ function App() {
 
       { active === "digital" && <Digitals getDigitalsPromises={getDigitalsPromises} cards={cards} setCards={setCards}  />}
       {active === "card" && <Cards cards={cards} />}
+
+      <SimpaleCard />
       <Steps></Steps>
       <Ready />
       <Footer />
