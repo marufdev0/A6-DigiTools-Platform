@@ -67,7 +67,16 @@ const Footer = () => {
                     </a>
                     </div>
                 </nav>
+                <hr className='text-amber-600' />
             </footer>
+            <div className='footer-vertical bg-violet-950 text-white flex justify-between items-center px-6 '>
+                    <h1>© 2026 Digitools. All rights reserved.</h1>
+                   <div className='flex justify-between items-center gap-5'>
+                     <p>Privacy Policy  </p>
+                     <p>Terms of Service </p>
+                     <p>Cookies</p>
+                   </div>
+                </div>
         </div>
     );
 };
